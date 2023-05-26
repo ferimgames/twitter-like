@@ -1,0 +1,11 @@
+.name{
+    font: inherit;
+    padding: 0.5rem 0rem;
+    border-radius: 4px;
+    background-color: initial;
+    color: initial;
+    border: none;
+}
+.isFiltering{
+font-weight: 700;
+}

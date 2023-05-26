@@ -1,0 +1,15 @@
+.label {
+  color: var(--blue);
+}
+.followList__container {
+  display: block;
+  width: 20pc;
+}
+.followList__list{
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+.followList__holder {
+
+  margin-left: 20px;
+}

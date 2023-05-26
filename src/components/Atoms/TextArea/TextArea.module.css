@@ -1,0 +1,5 @@
+.textareaHolder textarea{
+    font: inherit;
+    padding: 0.25rem;
+    resize: none;
+}
